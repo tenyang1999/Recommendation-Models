@@ -1,0 +1,1 @@
+{"IPNN": "Average RMSE: 0.9009, Average Recall: 0.4391, Average NDCG: 0.7139", "OPNN": "Average RMSE: 0.9254, Average Recall: 0.426, Average NDCG: 0.7196"}
